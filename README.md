@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Luis-gith!
 - 👀 I’m interested in IT in general Cybersecurity
 - 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on security related projects to increase my knowledge and experience.
+- 💞️ I’m looking to collaborate on any IT related projects to increase my knowledge and experience.
 - 📫 How to reach me: luisfelipebelasco@hotmail.com
 - I am a student at UFMG for a Bachelor of Information Systems.
 
